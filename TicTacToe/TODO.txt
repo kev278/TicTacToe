@@ -1,0 +1,5 @@
+Check board instead of Player lists
+Configurable size
+Note: Second diagonal is from (0, n - 1) to (n - 1, n - n)
+1-player mode with srand
+Test cases

@@ -1,0 +1,9 @@
+Steps to run the code on Linux
+Assumption: G++ is installed on Linux
+Step 1: Extract the folder in any location
+Step 2: Open a terminal and go to the extracted folder TicTacToe
+For example: cd Desktop/TicTacToe
+Step 3: g++ TicTacToe.cpp -o TicTacToe
+This tells the compiler to make an executable for the TicTacToe.cpp file and the executable is named TicTacToe
+Step 4: ./TicTacToe
+This runs the .cpp file

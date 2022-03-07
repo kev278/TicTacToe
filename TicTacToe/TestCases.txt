@@ -1,0 +1,3 @@
+For test case, we can have all the classes in .h files
+Include the .h files and test each function in the class with "assert"
+If all functions work, we will get the correct output
